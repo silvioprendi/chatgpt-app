@@ -1,6 +1,6 @@
 # chatgpt-app
 
-In this web application I have created a simple chat-app using chat engine and chat-gpt api.
+In this web application I have build Chat Application with ChatEngine, OpenAI and ChatGPT. The frontend has ChatEngine for chat application, Redux Toolkit for state management, Redux Toolkit Query for making api calls, Hero icons for Icons and React Router for Navigation. For the backend I have used Node Js as runtime, Express Js as  backend framework, and OpenAI for Ai integration with chat.
 
 Below you can see some images of the web-app.
 
